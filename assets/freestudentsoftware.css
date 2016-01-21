@@ -272,6 +272,10 @@ footer#foot a {
   color: #FFA726;
 }
 
+div.async {
+  text-align: center;
+}
+
 @media screen and (max-width: 767px) {
   h2 {
     font-size: 24px;
